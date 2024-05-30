@@ -1,0 +1,7 @@
+mistralai
+python-dotenv
+langchain
+langchain-mistralai
+langchain-community
+llama-index
+llama-index-llms-mistralai

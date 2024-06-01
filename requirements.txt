@@ -3,5 +3,8 @@ python-dotenv
 langchain
 langchain-mistralai
 langchain-community
+langgraph
 llama-index
 llama-index-llms-mistralai
+streamlit
+
